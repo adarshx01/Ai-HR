@@ -2,7 +2,7 @@
 import React,{useState} from 'react'
 import Link from 'next/link'
 import EmployeeNav from '../../../../../componets/employeeNav'
-const page = () => {
+const Page = () => {
   const [formData, setFormData] = useState({
     applicantName: '',
     department: 'Production',
@@ -185,4 +185,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page

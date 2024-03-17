@@ -2,7 +2,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Emp from '../../../componets/employeeNav'
-const page = () => {
+const Page = () => {
   return (
     <>
     <Emp/>
@@ -11,4 +11,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page

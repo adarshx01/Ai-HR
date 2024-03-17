@@ -1,7 +1,7 @@
 'use client'
 import React, { useState } from 'react';
 
-const page = ({ title, onSubmit, fields, buttonText, isSignUp = false }) => {
+const Page = ({ title, onSubmit, fields, buttonText, isSignUp = false }) => {
   const [formData, setFormData] = useState({});
   const [activeForm, setActiveForm] = useState('signin'); // Initial state
 
@@ -83,4 +83,4 @@ const page = ({ title, onSubmit, fields, buttonText, isSignUp = false }) => {
   );
 };
 
-export default page;
+export default Page;

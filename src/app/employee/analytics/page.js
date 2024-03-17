@@ -49,7 +49,7 @@ const Dashboard = () => {
           </div>
         </div>
       </div>
-{/* 
+
       <div className="bg-white rounded-lg shadow-md p-6 mt-8">
         <div className="grid grid-cols-2 gap-6">
           <div>
@@ -91,7 +91,7 @@ const Dashboard = () => {
             </BarChart>
           </div>
         </div>
-      </div> */}
+      </div>
       
 
       <div className="bg-white rounded-lg shadow-md p-6 mt-8">
