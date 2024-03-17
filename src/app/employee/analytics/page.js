@@ -49,7 +49,7 @@ const Dashboard = () => {
           </div>
         </div>
       </div>
-
+{/* 
       <div className="bg-white rounded-lg shadow-md p-6 mt-8">
         <div className="grid grid-cols-2 gap-6">
           <div>
@@ -92,7 +92,7 @@ const Dashboard = () => {
           </div>
         </div>
       </div>
-      
+       */}
 
       <div className="bg-white rounded-lg shadow-md p-6 mt-8">
         <h2 className="text-xl font-bold mb-4">Areas to Improve</h2>
