@@ -15,7 +15,7 @@ const LearningPathways = () => {
     <div className="bg-gray-100 p-8 ">
       <h2 className="text-4xl font-medium text-center text-gray-800 mb-8">Training Plan For You</h2>
       <p className="text-xl text-center text-gray-600 mb-8">
-        Discover interests you didn't know you had and prepare for jobs, with a new skill, that are just beginning to exist with our free learning pathways
+        Discover interests you did not know you had and prepare for jobs, with a new skill, that are just beginning to exist with our free learning pathways
       </p>
       <div className="flex flex-wrap">
         {pathways.map((pathway) => (
